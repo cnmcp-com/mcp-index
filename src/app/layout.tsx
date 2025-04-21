@@ -9,10 +9,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js静态页面 | Cloudflare Pages",
-  description: "使用Next.js构建的静态网站，部署在Cloudflare Pages上",
-  authors: [{ name: "Your Name" }],
-  keywords: ["Next.js", "Cloudflare", "静态网站", "前端开发"],
+  title: "MCP中文网 - 微软认证专业人员中文社区",
+  description: "MCP中文网为中文开发者提供微软认证专业知识、技术教程、认证指南及技术交流平台",
+  authors: [{ name: "MCP中文网" }],
+  keywords: ["MCP", "微软认证", "Microsoft Certified Professional", "Azure", "微软技术", "认证考试"],
   robots: "index, follow",
 };
 
